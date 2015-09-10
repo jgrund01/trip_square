@@ -1,4 +1,4 @@
-"""trip_square_django URL Configuration
+"""trip_square URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.8/topics/http/urls/
